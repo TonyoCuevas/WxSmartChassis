@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="wmb_mapicons.tex" />
+	<Elements>
+		<Element name="ancient_altar.wmb" u1="0.0293203125" u2="0.04831640625" v2="0.9394296875" v1="0.8789296875" variant="" />
+		<Element name="ancient_altar_broken.wmb" u1="0.05031640625" u2="0.07956640625" v2="0.999" v1="0.9433828125" variant="" />
+
+		<Element name="antlion.wmb" u1="0.08156640625" u2="0.110328125" v2="0.999" v1="0.9385" variant="" />
+	
+		<Element name="babybeefalo.wmb" u1="0.001" u2="0.02976171875" v2="0.8769296875" v1="0.81740625" variant="" />
+		<Element name="beefalo.wmb" u1="0.08644921875" u2="0.1152109375" v2="0.90134375" v1="0.8535390625" variant="" />
+
+		<Element name="beequeenhive.wmb" u1="0.0937734375" u2="0.11862890625" v2="0.8515390625" v1="0.7910390625" variant="" />
+		<Element name="beequeenhivegrown.wmb" u1="0.0937734375" u2="0.11862890625" v2="0.8515390625" v1="0.7910390625" variant="" />
+	
+		<Element name="bishop.wmb" u1="0.14211328125" u2="0.1562265625" v2="0.999" v1="0.9394765625" variant="" />
+		<Element name="bishop_nightmare.wmb" u1="0.1582265625" u2="0.17722265625" v2="0.999" v1="0.9385" variant="" />
+
+		<Element name="chester_eyebone.wmb" u1="0.21144921875" u2="0.239234375" v2="0.8769296875" v1="0.819359375" variant="" />
+		
+		<Element name="crabking.wmb" u1="0.001" u2="0.02585546875" v2="0.7558359375" v1="0.6953359375" variant="" />
+		
+		<Element name="daywalker.wmb" u1="0.0605703125" u2="0.0898203125" v2="0.758765625" v1="0.7051015625" variant="" />
+
+		<Element name="hutch_fishbowl.wmb" u1="0.268578125" u2="0.297828125" v2="0.999" v1="0.9385" variant="" />
+		
+		<Element name="knight.wmb" u1="0.02394921875" u2="0.051734375" v2="0.5175546875" v1="0.4570546875" variant="" />
+		<Element name="knight_nightmare.wmb" u1="0.053734375" u2="0.08249609375" v2="0.524390625" v1="0.463890625" variant="" />
+
+		<Element name="lightninggoat.wmb" u1="0.001" u2="0.02878515625" v2="0.3359140625" v1="0.27834375" variant="" />
+
+		<Element name="mandrake.wmb" u1="0.26320703125" u2="0.2909921875" v2="0.817359375" v1="0.7597890625" variant="" />
+		<Element name="mandrake_active.wmb" u1="0.2343984375" u2="0.26218359375" v2="0.7577890625" v1="0.70021875" variant="" />
+		<Element name="mandrake_planted.wmb" u1="0.0605703125" u2="0.08835546875" v2="0.4003671875" v1="0.342796875" variant="" />
+
+		<Element name="minotaur.wmb" u1="0.26418359375" u2="0.29196875" v2="0.7577890625" v1="0.70021875" variant="" />
+
+		<Element name="rook.wmb" u1="0.24367578125" u2="0.2714609375" v2="0.5195078125" v1="0.4619375" variant="" />
+		<Element name="rook_nightmare.wmb" u1="0.151390625" u2="0.180640625" v2="0.3339609375" v1="0.2734609375" variant="" />		
+
+		<Element name="tentacle.wmb" u1="0.18117578125" u2="0.2089609375" v2="0.1445078125" v1="0.0869375" variant="" />
+		
+		<Element name="toadstool.wmb" u1="0.2734609375" u2="0.29636328125" v2="0.63571875" v1="0.57521875" variant="" />
+		<Element name="toadstool_dark.wmb" u1="0.2734609375" u2="0.29636328125" v2="0.57321875" v1="0.51271875" variant="" />
+		
+		<Element name="walrus.wmb" u1="0.2734609375" u2="0.29636328125" v2="0.51071875" v1="0.45021875" variant="" />
+		
+	</Elements>
+</Atlas>
