@@ -1,0 +1,11 @@
+name = "Smarter Possesed Chassis"
+description = "Make the lunar affinity of wx more reliable and less of a dummy, now they try to evade enemies and dangers, eat and repair even in combat, their aggro is reduced to bosses, theres a new function for the Spectral Transfer Module; now can toggle a Standy/Follow mechanic for the clones and now you can see what the chassis and clones have equipped (Thanks to Wiefean)! Now make them usefull in more complex bosses fights like Celestial Champion and Shadow Pieces."
+author = "Ruperstiltskin"
+version = "1.2"
+forumthread = ""
+api_version = 10
+dst_compatible = true
+all_clients_require_mod = true
+client_only_mod = false
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
